@@ -5,7 +5,8 @@ This Repo is created for the course Bootstrap-4 [coursera.org]
 __Want to try by yourself?__
 
 clone this repo using
-    https://github.com/akashprasher/camo-git-bootstrap.git
+        https://github.com/akashprasher/camo-git-bootstrap.git
 
-And run
-    install npm
+And run following command in terminal
+        cd ./camo-git-bootstrap
+        install npm
