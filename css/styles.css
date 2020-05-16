@@ -33,3 +33,7 @@ body{
     padding-top: 56px;
     z-index: 0;
 }
+
+.navbar-dark {
+    background-color: #512DA8;
+}
