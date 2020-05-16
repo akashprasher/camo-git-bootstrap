@@ -9,4 +9,5 @@ clone this repo using
 
 And run following command in terminal
         cd ./camo-git-bootstrap
+        
         install npm
