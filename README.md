@@ -6,7 +6,7 @@ __Want to try by yourself?__
 
 clone this repo using
 
-        https://github.com/akashprasher/camo-git-bootstrap.git
+        git clone https://github.com/akashprasher/camo-git-bootstrap.git
 
 And run following command in terminal
 
