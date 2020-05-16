@@ -4,7 +4,9 @@ This Repo is created for the course Bootstrap-4 [coursera.org]
 
 __Want to try by yourself?__
 
-clone this repo using this command in terminal
+**Make sure you have node installed in your system.**
+
+Clone this repo using this command in terminal
 
         git clone https://github.com/akashprasher/camo-git-bootstrap.git
 
