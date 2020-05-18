@@ -41,3 +41,7 @@ body{
 a.btn.btn-info {
     color: floralwhite;
 }
+
+.myClass {
+    bottom: 0px;
+}
